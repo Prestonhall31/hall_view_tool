@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+HallViewTool::Renderer.copyright 'Preston Hall', 'All rights reserved'
+```
 
 ## Development
 
